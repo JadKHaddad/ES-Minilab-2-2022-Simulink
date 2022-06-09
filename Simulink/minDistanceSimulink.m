@@ -26,6 +26,25 @@ function dist = minDistanceSimulink(map, sourceRow, sourceCol, destRow, destCol)
     function item = front()
         item = qArray(f,:);
     end
+    i = 1;
+    while i <= length(map)
+        j = 1;
+        while j <= length(map(1,:))
+            if i == destRow && j == destCol
+                visited(i,j) = 0;
+                j = j + 1;
+                continue
+            end
+            if map(i,j) == 0 || map(i,j) == 99 || map(i,j) == 2 || map(i,j) == 3 || map(i,j) == -1
+                visited(i,j) = 1;
+                j = j + 1;
+                continue
+            end
+            visited(i,j) = 0;
+            j = j + 1;
+        end
+        i = i + 1;
+    end
 
     push(source);
     visited(sourceRow, sourceCol) = 1;
