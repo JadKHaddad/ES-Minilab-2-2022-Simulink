@@ -1,0 +1,328 @@
+sim('model')
+[1]: Sending drone [1] from (-1, -1) to (1, 1) with distance [0]
+[9]: Drone [1] is now ready
+[9]: Next free positions: (2, 1) (1, 2) 
+[9]: Sending drone [1] from (1, 1) to (2, 1) with distance [1]
+[10]: Sending drone [2] from (-1, -1) to (1, 2) with distance [1]
+[17]: Drone [2] is now ready
+[17]: Next free positions: (2, 2) (1, 3) 
+[17]: Sending drone [2] from (1, 2) to (2, 2) with distance [1]
+[18]: Sending drone [3] from (-1, -1) to (1, 3) with distance [2]
+[19]: Drone [1] is now ready
+[19]: Next free positions: (3, 1) 
+[19]: Sending drone [1] from (2, 1) to (3, 1) with distance [1]
+[25]: Drone [3] is now ready
+[25]: Next free positions: (2, 3) (1, 4) 
+[25]: Sending drone [3] from (1, 3) to (2, 3) with distance [1]
+[27]: Drone [2] is now ready
+[27]: Next free positions: (1, 4) (3, 2) 
+[27]: Sending drone [2] from (2, 2) to (1, 4) with distance [3]
+[29]: Drone [1] is now ready
+[29]: Next free positions: (3, 2) (4, 1) 
+[29]: Sending drone [1] from (3, 1) to (3, 2) with distance [1]
+[35]: Drone [3] is now ready
+[35]: Next free positions: (4, 1) (3, 3) (2, 4) 
+[35]: Sending drone [3] from (2, 3) to (4, 1) with distance [4]
+[39]: Drone [1] is now ready
+[39]: Next free positions: (3, 3) (2, 4) (4, 2) 
+[39]: Drone [2] is now ready
+[39]: Next free positions: (3, 3) (2, 4) (4, 2) (1, 5) 
+[39]: Sending drone [1] from (3, 2) to (3, 3) with distance [1]
+[40]: Sending drone [2] from (1, 4) to (2, 4) with distance [1]
+[47]: Drone [2] is now ready
+[47]: Next free positions: (4, 2) (1, 5) (3, 4) (2, 5) 
+[47]: Sending drone [2] from (2, 4) to (4, 2) with distance [4]
+[48]: Drone [3] is now ready
+[48]: Next free positions: (1, 5) (3, 4) (2, 5) 
+[48]: Sending drone [3] from (4, 1) to (1, 5) with distance [7]
+[49]: Drone [1] is now ready
+[49]: Next free positions: (3, 4) (2, 5) (4, 3) 
+[49]: Sending drone [1] from (3, 3) to (3, 4) with distance [1]
+[59]: Drone [1] is now ready
+[59]: Next free positions: (2, 5) (4, 3) (4, 4) (3, 5) 
+[59]: Sending drone [1] from (3, 4) to (2, 5) with distance [2]
+[60]: Drone [2] is now ready
+[60]: Next free positions: (4, 3) (4, 4) (3, 5) 
+[60]: Sending drone [2] from (4, 2) to (4, 3) with distance [1]
+[64]: Drone [3] is now ready
+[64]: Next free positions: (4, 4) (3, 5) (1, 6) 
+[64]: Sending drone [3] from (1, 5) to (4, 4) with distance [4]
+[70]: Drone [1] is now ready
+[70]: Next free positions: (3, 5) (1, 6) (2, 6) 
+[70]: Drone [2] is now ready
+[70]: Next free positions: (3, 5) (1, 6) (2, 6) 
+[70]: Sending drone [1] from (2, 5) to (3, 5) with distance [1]
+[71]: Sending drone [2] from (4, 3) to (1, 6) with distance [6]
+[77]: Drone [3] is now ready
+[77]: Next free positions: (2, 6) (4, 5) 
+[77]: Sending drone [3] from (4, 4) to (2, 6) with distance [4]
+[78]: Drone [2] is now ready
+[78]: Next free positions: (4, 5) (1, 7) 
+[78]: Sending drone [2] from (1, 6) to (4, 5) with distance [6]
+[80]: Drone [1] is now ready
+[80]: Next free positions: (1, 7) (3, 6) 
+[80]: Sending drone [1] from (3, 5) to (1, 7) with distance [4]
+[90]: Drone [3] is now ready
+[90]: Next free positions: (3, 6) (2, 7) 
+[90]: Sending drone [3] from (2, 6) to (3, 6) with distance [1]
+[93]: Drone [1] is now ready
+[93]: Next free positions: (2, 7) (1, 8) 
+[93]: Drone [2] is now ready
+[93]: Next free positions: (2, 7) (1, 8) (4, 6) 
+[93]: Sending drone [1] from (1, 7) to (2, 7) with distance [1]
+[94]: Sending drone [2] from (4, 5) to (1, 8) with distance [6]
+[100]: Drone [3] is now ready
+[100]: Next free positions: (4, 6) (3, 7) 
+[100]: Sending drone [3] from (3, 6) to (4, 6) with distance [1]
+[101]: Drone [2] is now ready
+[101]: Next free positions: (3, 7) (2, 8) (1, 9) 
+[101]: Sending drone [2] from (1, 8) to (3, 7) with distance [5]
+[103]: Drone [1] is now ready
+[103]: Next free positions: (2, 8) (1, 9) 
+[103]: Sending drone [1] from (2, 7) to (2, 8) with distance [1]
+[110]: Drone [3] is now ready
+[110]: Next free positions: (1, 9) (5, 6) (4, 7) 
+[110]: Sending drone [3] from (4, 6) to (1, 9) with distance [6]
+[113]: Drone [1] is now ready
+[113]: Next free positions: (5, 6) (4, 7) (3, 8) (2, 9) 
+[113]: Sending drone [1] from (2, 8) to (5, 6) with distance [5]
+[115]: Drone [2] is now ready
+[115]: Next free positions: (4, 7) (3, 8) (2, 9) 
+[115]: Sending drone [2] from (3, 7) to (4, 7) with distance [1]
+[125]: Drone [2] is now ready
+[125]: Next free positions: (3, 8) (2, 9) (5, 7) (4, 8) 
+[125]: Drone [3] is now ready
+[125]: Next free positions: (3, 8) (2, 9) (5, 7) (4, 8) (1, 10) 
+[125]: Sending drone [2] from (4, 7) to (3, 8) with distance [2]
+[126]: Sending drone [3] from (1, 9) to (2, 9) with distance [1]
+[127]: Drone [1] is now ready
+[127]: Next free positions: (5, 7) (4, 8) (1, 10) (6, 6) 
+[127]: Sending drone [1] from (5, 6) to (5, 7) with distance [1]
+[133]: Drone [3] is now ready
+[133]: Next free positions: (4, 8) (1, 10) (6, 6) (3, 9) (2, 10) 
+[133]: Sending drone [3] from (2, 9) to (4, 8) with distance [5]
+[136]: Drone [2] is now ready
+[136]: Next free positions: (1, 10) (6, 6) (3, 9) (2, 10) 
+[136]: Sending drone [2] from (3, 8) to (1, 10) with distance [4]
+[137]: Drone [1] is now ready
+[137]: Next free positions: (6, 6) (3, 9) (2, 10) (6, 7) 
+[137]: Sending drone [1] from (5, 7) to (6, 6) with distance [2]
+[147]: Drone [3] is now ready
+[147]: Next free positions: (3, 9) (2, 10) (6, 7) (4, 9) 
+[147]: Sending drone [3] from (4, 8) to (3, 9) with distance [2]
+[148]: Drone [1] is now ready
+[148]: Next free positions: (2, 10) (6, 7) (4, 9) (7, 6) (6, 5) 
+[148]: Sending drone [1] from (6, 6) to (2, 10) with distance [8]
+[149]: Drone [2] is now ready
+[149]: Next free positions: (6, 7) (4, 9) (7, 6) (6, 5) 
+[149]: Sending drone [2] from (1, 10) to (6, 7) with distance [8]
+[158]: Drone [3] is now ready
+[158]: Next free positions: (4, 9) (7, 6) (6, 5) (3, 10) 
+[158]: Sending drone [3] from (3, 9) to (4, 9) with distance [1]
+[165]: Drone [1] is now ready
+[165]: Next free positions: (7, 6) (6, 5) (3, 10) 
+[165]: Sending drone [1] from (2, 10) to (7, 6) with distance [9]
+[166]: Drone [2] is now ready
+[166]: Next free positions: (6, 5) (3, 10) (7, 7) (6, 8) 
+[166]: Sending drone [2] from (6, 7) to (6, 5) with distance [2]
+[168]: Drone [3] is now ready
+[168]: Next free positions: (3, 10) (7, 7) (6, 8) (4, 10) 
+[168]: Sending drone [3] from (4, 9) to (3, 10) with distance [2]
+[177]: Drone [2] is now ready
+[177]: Next free positions: (7, 7) (6, 8) (4, 10) (7, 5) (6, 4) 
+[177]: Sending drone [2] from (6, 5) to (7, 7) with distance [3]
+[179]: Drone [3] is now ready
+[179]: Next free positions: (6, 8) (4, 10) (7, 5) (6, 4) 
+[179]: Sending drone [3] from (3, 10) to (6, 8) with distance [7]
+[183]: Drone [1] is now ready
+[183]: Next free positions: (4, 10) (7, 5) (6, 4) (8, 6) 
+[183]: Sending drone [1] from (7, 6) to (4, 10) with distance [7]
+[189]: Drone [2] is now ready
+[189]: Next free positions: (7, 5) (6, 4) (8, 6) (8, 7) (7, 8) 
+[189]: Sending drone [2] from (7, 7) to (7, 5) with distance [2]
+[195]: Drone [3] is now ready
+[195]: Next free positions: (6, 4) (8, 6) (8, 7) (7, 8) (6, 9) 
+[195]: Sending drone [3] from (6, 8) to (6, 4) with distance [4]
+[199]: Drone [1] is now ready
+[199]: Next free positions: (8, 6) (8, 7) (7, 8) (6, 9) 
+[199]: Sending drone [1] from (4, 10) to (8, 6) with distance [8]
+[200]: Drone [2] is now ready
+[200]: Next free positions: (8, 7) (7, 8) (6, 9) (8, 5) (7, 4) 
+[200]: Sending drone [2] from (7, 5) to (8, 7) with distance [3]
+[208]: Drone [3] is now ready
+[208]: Next free positions: (7, 8) (6, 9) (8, 5) (7, 4) (6, 3) 
+[208]: Sending drone [3] from (6, 4) to (7, 8) with distance [5]
+[212]: Drone [2] is now ready
+[212]: Next free positions: (6, 9) (8, 5) (7, 4) (6, 3) (9, 7) (8, 8) 
+[212]: Sending drone [2] from (8, 7) to (6, 9) with distance [4]
+[216]: Drone [1] is now ready
+[216]: Next free positions: (8, 5) (7, 4) (6, 3) (9, 7) (8, 8) (9, 6) 
+[216]: Sending drone [1] from (8, 6) to (8, 5) with distance [1]
+[222]: Drone [3] is now ready
+[222]: Next free positions: (7, 4) (6, 3) (9, 7) (8, 8) (9, 6) (7, 9) 
+[222]: Sending drone [3] from (7, 8) to (7, 4) with distance [4]
+[225]: Drone [2] is now ready
+[225]: Next free positions: (6, 3) (9, 7) (8, 8) (9, 6) (7, 9) (6, 10) 
+[225]: Sending drone [2] from (6, 9) to (6, 3) with distance [6]
+[226]: Drone [1] is now ready
+[226]: Next free positions: (9, 7) (8, 8) (9, 6) (7, 9) (6, 10) (9, 5) (8, 4) 
+[226]: Sending drone [1] from (8, 5) to (9, 7) with distance [3]
+[235]: Drone [3] is now ready
+[235]: Next free positions: (8, 8) (9, 6) (7, 9) (6, 10) (9, 5) (8, 4) (7, 3) 
+[235]: Sending drone [3] from (7, 4) to (8, 8) with distance [5]
+[238]: Drone [1] is now ready
+[238]: Next free positions: (9, 6) (7, 9) (6, 10) (9, 5) (8, 4) (7, 3) (10, 7) (9, 8) 
+[238]: Sending drone [1] from (9, 7) to (9, 6) with distance [1]
+[240]: Drone [2] is now ready
+[240]: Next free positions: (7, 9) (6, 10) (9, 5) (8, 4) (7, 3) (10, 7) (9, 8) (6, 2) 
+[240]: Sending drone [2] from (6, 3) to (7, 9) with distance [7]
+[248]: Drone [1] is now ready
+[248]: Next free positions: (6, 10) (9, 5) (8, 4) (7, 3) (10, 7) (9, 8) (6, 2) (10, 6) 
+[248]: Sending drone [1] from (9, 6) to (6, 10) with distance [7]
+[249]: Drone [3] is now ready
+[249]: Next free positions: (9, 5) (8, 4) (7, 3) (10, 7) (9, 8) (6, 2) (10, 6) (8, 9) 
+[249]: Sending drone [3] from (8, 8) to (9, 5) with distance [4]
+[256]: Drone [2] is now ready
+[256]: Next free positions: (8, 4) (7, 3) (10, 7) (9, 8) (6, 2) (10, 6) (8, 9) (7, 10) 
+[256]: Sending drone [2] from (7, 9) to (8, 4) with distance [6]
+[262]: Drone [3] is now ready
+[262]: Next free positions: (7, 3) (10, 7) (9, 8) (6, 2) (10, 6) (8, 9) (7, 10) (10, 5) (9, 4) 
+[262]: Sending drone [3] from (9, 5) to (7, 3) with distance [4]
+[264]: Drone [1] is now ready
+[264]: Next free positions: (10, 7) (9, 8) (6, 2) (10, 6) (8, 9) (7, 10) (10, 5) (9, 4) 
+[264]: Sending drone [1] from (6, 10) to (10, 7) with distance [7]
+[271]: Drone [2] is now ready
+[271]: Next free positions: (9, 8) (6, 2) (10, 6) (8, 9) (7, 10) (10, 5) (9, 4) (8, 3) 
+[271]: Sending drone [2] from (8, 4) to (9, 8) with distance [5]
+[275]: Drone [3] is now ready
+[275]: Next free positions: (6, 2) (10, 6) (8, 9) (7, 10) (10, 5) (9, 4) (8, 3) (7, 2) 
+[275]: Sending drone [3] from (7, 3) to (6, 2) with distance [2]
+[280]: Drone [1] is now ready
+[280]: Next free positions: (10, 6) (8, 9) (7, 10) (10, 5) (9, 4) (8, 3) (7, 2) (10, 8) 
+[280]: Sending drone [1] from (10, 7) to (10, 6) with distance [1]
+[285]: Drone [2] is now ready
+[285]: Next free positions: (8, 9) (7, 10) (10, 5) (9, 4) (8, 3) (7, 2) (10, 8) (9, 9) 
+[285]: Sending drone [2] from (9, 8) to (8, 9) with distance [2]
+[286]: Drone [3] is now ready
+[286]: Next free positions: (7, 10) (10, 5) (9, 4) (8, 3) (7, 2) (10, 8) (9, 9) (6, 1) 
+[286]: Sending drone [3] from (6, 2) to (7, 10) with distance [9]
+[290]: Drone [1] is now ready
+[290]: Next free positions: (10, 5) (9, 4) (8, 3) (7, 2) (10, 8) (9, 9) (6, 1) 
+[290]: Sending drone [1] from (10, 6) to (10, 5) with distance [1]
+[296]: Drone [2] is now ready
+[296]: Next free positions: (9, 4) (8, 3) (7, 2) (10, 8) (9, 9) (6, 1) (8, 10) 
+[296]: Sending drone [2] from (8, 9) to (9, 4) with distance [6]
+[300]: Drone [1] is now ready
+[300]: Next free positions: (8, 3) (7, 2) (10, 8) (9, 9) (6, 1) (8, 10) (10, 4) 
+[300]: Sending drone [1] from (10, 5) to (8, 3) with distance [4]
+[304]: Drone [3] is now ready
+[304]: Next free positions: (7, 2) (10, 8) (9, 9) (6, 1) (8, 10) (10, 4) 
+[304]: Sending drone [3] from (7, 10) to (7, 2) with distance [8]
+[311]: Drone [2] is now ready
+[311]: Next free positions: (10, 8) (9, 9) (6, 1) (8, 10) (10, 4) (9, 3) 
+[311]: Sending drone [2] from (9, 4) to (10, 8) with distance [5]
+[313]: Drone [1] is now ready
+[313]: Next free positions: (9, 9) (6, 1) (8, 10) (10, 4) (9, 3) (8, 2) 
+[313]: Sending drone [1] from (8, 3) to (9, 9) with distance [7]
+[321]: Drone [3] is now ready
+[321]: Next free positions: (6, 1) (8, 10) (10, 4) (9, 3) (8, 2) (7, 1) 
+[321]: Sending drone [3] from (7, 2) to (6, 1) with distance [2]
+[325]: Drone [2] is now ready
+[325]: Next free positions: (8, 10) (10, 4) (9, 3) (8, 2) (7, 1) (10, 9) 
+[325]: Sending drone [2] from (10, 8) to (8, 10) with distance [4]
+[329]: Drone [1] is now ready
+[329]: Next free positions: (10, 4) (9, 3) (8, 2) (7, 1) (10, 9) (9, 10) 
+[329]: Sending drone [1] from (9, 9) to (10, 4) with distance [6]
+[332]: Drone [3] is now ready
+[332]: Next free positions: (9, 3) (8, 2) (7, 1) (10, 9) (9, 10) 
+[332]: Sending drone [3] from (6, 1) to (9, 3) with distance [5]
+[338]: Drone [2] is now ready
+[338]: Next free positions: (8, 2) (7, 1) (10, 9) (9, 10) 
+[338]: Sending drone [2] from (8, 10) to (8, 2) with distance [8]
+[344]: Drone [1] is now ready
+[344]: Next free positions: (7, 1) (10, 9) (9, 10) (10, 3) 
+[344]: Sending drone [1] from (10, 4) to (7, 1) with distance [6]
+[346]: Drone [3] is now ready
+[346]: Next free positions: (10, 9) (9, 10) (10, 3) (9, 2) 
+[346]: Sending drone [3] from (9, 3) to (10, 9) with distance [7]
+[355]: Drone [2] is now ready
+[355]: Next free positions: (9, 10) (10, 3) (9, 2) (8, 1) 
+[355]: Sending drone [2] from (8, 2) to (9, 10) with distance [9]
+[359]: Drone [1] is now ready
+[359]: Next free positions: (10, 3) (9, 2) (8, 1) 
+[359]: Sending drone [1] from (7, 1) to (10, 3) with distance [5]
+[362]: Drone [3] is now ready
+[362]: Next free positions: (9, 2) (8, 1) (10, 10) 
+[362]: Sending drone [3] from (10, 9) to (9, 2) with distance [8]
+[373]: Drone [1] is now ready
+[373]: Next free positions: (8, 1) (10, 10) (10, 2) 
+[373]: Drone [2] is now ready
+[373]: Next free positions: (8, 1) (10, 10) (10, 2) 
+[373]: Sending drone [1] from (10, 3) to (8, 1) with distance [4]
+[374]: Sending drone [2] from (9, 10) to (10, 10) with distance [1]
+[379]: Drone [3] is now ready
+[379]: Next free positions: (10, 2) (9, 1) 
+[379]: Sending drone [3] from (9, 2) to (10, 2) with distance [1]
+[381]: Drone [2] is now ready
+[381]: Next free positions: (9, 1) 
+[381]: Sending drone [2] from (10, 10) to (9, 1) with distance [10]
+[386]: Drone [1] is now ready
+[386]: Next free positions: 
+[389]: Drone [3] is now ready
+[389]: Next free positions: (10, 1) 
+[389]: Sending drone [3] from (10, 2) to (10, 1) with distance [1]
+[399]: Drone [3] is now ready
+[399]: Next free positions: 
+[400]: Drone [2] is now ready
+[400]: Next free positions: 
+[400]: Entering termination mode
+[400]: Calling drone [1] back from(8, 1) with distance [17]
+[400]: Calling drone [2] back from(9, 1) with distance [18]
+[400]: Calling drone [3] back from(10, 1) with distance [19]
+[400]: Drone [4] is already at start location
+[400]: Drone [5] is already at start location
+[400]: Drone [6] is already at start location
+[400]: Drone [7] is already at start location
+[400]: Drone [8] is already at start location
+[400]: Drone [9] is already at start location
+[400]: Drone [10] is already at start location
+[402]: Drone [3] came back
+[421]: Drone [1] came back
+[422]: Drone [2] came back
+[423]: All drones came back. Terminating...
+
+Map:
+     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1
+    99    99    99    99    99     1     1    99    99    99
+     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1
+
+
+
+Drone [1] battery capacity: [80.133989%]
+Drone [2] battery capacity: [79.983565%]
+Drone [3] battery capacity: [80.224595%]
+Drone [4] battery capacity: [81.537500%]
+Drone [5] battery capacity: [81.537500%]
+Drone [6] battery capacity: [81.537500%]
+Drone [7] battery capacity: [81.537500%]
+Drone [8] battery capacity: [81.537500%]
+Drone [9] battery capacity: [81.537500%]
+Drone [10] battery capacity: [81.537500%]
+
+ans = 
+
+  <a href="matlab: help Simulink.SimulationOutput">Simulink.SimulationOutput</a>:
+
+                   tout: [424x1 double] 
+
+     SimulationMetadata: [1x1 Simulink.SimulationMetadata] 
+           ErrorMessage: [0x0 char] 
+
+diary off
