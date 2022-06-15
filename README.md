@@ -39,3 +39,4 @@ See ```output``` for scenarios outputs.<br>
 * **scenario_3_3_drones:** battery dies
 * **scenario_3_5_drones:** battery dies
 * **scenario_3_10_drones:** battery dies
+* **scenario_3_20_drones:** battery dies
