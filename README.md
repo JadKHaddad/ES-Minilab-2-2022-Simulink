@@ -25,6 +25,7 @@ Run the simulation
 ```matlab
 sim('model.slx')
 ```
+Run ```model20Drones.slx``` with up to droneCount = 20
 ## Output
 See ```output``` for scenarios outputs.<br>
 * **scenario_1_3_drones:** success
